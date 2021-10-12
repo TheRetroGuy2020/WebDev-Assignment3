@@ -2,8 +2,8 @@
  * Add your JavaScript to this file to complete the assignment.  Don't forget
  * to add your name and @oregonstate email address below.
  *
- * Name: Christian Bryant-VonHeeder
- * Email: bryantvc@oregonstate.edu
+ * Name: Christian Bryant
+ * Email: Hidden
  */
 
 var twitsContainer = document.getElementsByClassName('twit-container')
